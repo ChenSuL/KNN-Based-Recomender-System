@@ -1,5 +1,5 @@
 # KNN-Based-Recomender-System
-This is a implementation of UserBased-KNN and ItemBased-KNN algrithms
+This is a python implementation of UserBased-KNN and ItemBased-KNN algrithms
 
 Dataset: movielens ml-100k
 
